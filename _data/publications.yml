@@ -1,19 +1,60 @@
 main:
 
-  - title: VinaBench Benchmark for Faithful and Consistent Visual Narratives
+  - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
     authors: Silin Gao, Sheryl Mathew, <strong>Li Mi</strong>*, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
     page: https://silin159.github.io/Vina-Bench/
-    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paper_vinabench.png
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
+  - title: "ConGeo: Robust Cross-view Geo-localization across Ground View Variations"
+    authors: <strong>Li Mi</strong>*, Chang Xu*, Javiera Castillo-Navarro, Syrielle Montariol, Wen Yang, Antoine Bosselut, Devis Tuia
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2403.13965.pdf
+    page: https://eceo-epfl.github.io/ConGeo/
+    image: ./assets/img/paper_congeo.png
+
+  - title: "ConVQG: Contrastive Visual Question Generation with Multimodal Guidance"
+    authors: <strong>Li Mi</strong>*, Syrielle Montariol*, Javiera Castillo-Navarro*, Xianjie Dai, Antoine Bosselut, Devis Tuia
+    conference_short: AAAI
+    conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2402.12846.pdf
+    page: https://limirs.github.io/ConVQG/
+    image: ./assets/img/paper_convqg.png
+
+  - title: "Knowledge-aware Text-Image Retrieval for Remote Sensing Images"
+    authors: <strong>Li Mi</strong>, Xianjie Dai, Javiera Castillo-Navarro, Devis Tuia
+    conference_short: TGRS
+    conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2405.03373.pdf
+    image: ./assets/img/paper_ktir.png
+
+  - title: "Object-relation Reasoning Graph for Action Recognition"
+    authors: Yangjun Ou, <strong>Li Mi</strong>, Zhenzhong Chen
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
+    pdf: https://openaccess.thecvf.com/content/CVPR2022/html/Ou_Object-Relation_Reasoning_Graph_for_Action_Recognition_CVPR_2022_paper.html
+    image: ./assets/img/paper_object.png
+
+  - title: "Civil War Hinders Crop Production and Threatens Food Security in Syria"
+    authors: Xi-Ya Li, Xi Li, Ziying Fan, <strong>Li Mi</strong>, Tarek Kandakji, Zhen Song, Deren Li, Xiao-Peng Song
+    conference_short: Nature Food
+    conference: Nature Food, 2022.
+    pdf: https://www.nature.com/articles/s43016-021-00432-4
+    image: ./assets/img/paper_civil.png
+
+  - title: "Hierarchical Graph Attention Network for Visual Relationship Detection"
+    authors: <strong>Li Mi</strong>, Zhenzhong Chen
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
+    pdf: https://openaccess.thecvf.com/content_CVPR_2020/html/Mi_Hierarchical_Graph_Attention_Network_for_Visual_Relationship_Detection_CVPR_2020_paper.html
+    image: ./assets/img/paper_hierachical.png
+
+  - title: "Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation"
+    authors: <strong>Li Mi</strong>, Zhenzhong Chen
+    conference_short: ISPRS
+    conference: ISPRS Journal of Photogrammetry and Remote Sensing <strong>(ISPRS)</strong>, 2020.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271619302606
+    image: ./assets/img/paper_superpixel.png
+
