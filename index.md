@@ -4,19 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+I am a Ph.D. student at EPFL (École Polytechnique Fédérale de Lausanne), co-affiliate at the ECEO and NLP lab, advised by Prof. Devis Tuia and Prof. Antoine Bosselut. I am interested in multimodal learning and its application to geo-aware artificial intelligence. Previously, I obtained my master's degree in pattern recognition and artificial intelligence at Wuhan University IIP lab, working with Prof. Zhenzhong Chen.
 
 {% include_relative _includes/publications.md %}
 
