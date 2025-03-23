@@ -4,7 +4,7 @@ main:
     authors: Silin Gao, Sheryl Mathew, <strong>Li Mi</strong>*, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    pdf: https://cvpr.thecvf.com/virtual/2025/poster/33363
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
     page: https://silin159.github.io/Vina-Bench/
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paper_vinabench.png
@@ -17,4 +17,3 @@ main:
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
