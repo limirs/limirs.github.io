@@ -1,7 +1,7 @@
 main:
 
   - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
-    authors: Silin Gao, Sheryl Mathew, <strong>Li Mi</strong>*, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
+    authors: Silin Gao, Sheryl Mathew, <strong>Li Mi</strong>, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     page: https://silin159.github.io/Vina-Bench/
@@ -49,7 +49,7 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://openaccess.thecvf.com/content_CVPR_2020/html/Mi_Hierarchical_Graph_Attention_Network_for_Visual_Relationship_Detection_CVPR_2020_paper.html
-    image: ./assets/img/paper_hierachical.png
+    image: ./assets/img/paper_hierarchical.png
 
   - title: "Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation"
     authors: <strong>Li Mi</strong>, Zhenzhong Chen
