@@ -1,8 +1,11 @@
 main:
 
-  - title: VinaBench: Benchmark for Faithful and Consistent Visual Narratives
-    authors: Silin Gao, Sheryl Mathew, <strong>Li Mi</strong>*, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
-    page: https://silin159.github.io/Vina-Bench/
+  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
+    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+    conference_short: MICCAI
+    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/paper_vinabench.png
+    notes: Early Accept
