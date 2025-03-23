@@ -1,6 +1,6 @@
 main:
 
-  - title: VinaBench: Benchmark for Faithful and Consistent Visual Narratives
+  - title: VinaBench Benchmark for Faithful and Consistent Visual Narratives
     authors: Silin Gao, Sheryl Mathew, <strong>Li Mi</strong>*, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
