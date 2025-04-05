@@ -1,14 +1,14 @@
 main:
 
   - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
-    authors: Silin Gao, Sheryl Mathew, <strong>Li Mi</strong>, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
+    authors: Silin Gao, Sheryl Mathew, <u><strong>Li Mi</strong></u>, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     page: https://silin159.github.io/Vina-Bench/
     image: ./assets/img/paper_vinabench.jpg
 
   - title: "ConGeo: Robust Cross-view Geo-localization across Ground View Variations"
-    authors: <strong>Li Mi</strong>*, Chang Xu*, Javiera Castillo-Navarro, Syrielle Montariol, Wen Yang, Antoine Bosselut, Devis Tuia
+    authors: <u><strong>Li Mi</strong></u>*, Chang Xu*, Javiera Castillo-Navarro, Syrielle Montariol, Wen Yang, Antoine Bosselut, Devis Tuia
     conference_short: ECCV
     conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2403.13965.pdf
@@ -16,7 +16,7 @@ main:
     image: ./assets/img/paper_congeo.jpg
 
   - title: "ConVQG: Contrastive Visual Question Generation with Multimodal Guidance"
-    authors: <strong>Li Mi</strong>*, Syrielle Montariol*, Javiera Castillo-Navarro*, Xianjie Dai, Antoine Bosselut, Devis Tuia
+    authors: <u><strong>Li Mi</strong></u>*, Syrielle Montariol*, Javiera Castillo-Navarro*, Xianjie Dai, Antoine Bosselut, Devis Tuia
     conference_short: AAAI
     conference: AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2402.12846.pdf
@@ -24,35 +24,35 @@ main:
     image: ./assets/img/paper_convqg.jpg
 
   - title: "Knowledge-aware Text-Image Retrieval for Remote Sensing Images"
-    authors: <strong>Li Mi</strong>, Xianjie Dai, Javiera Castillo-Navarro, Devis Tuia
+    authors: <u><strong>Li Mi</strong></u>, Xianjie Dai, Javiera Castillo-Navarro, Devis Tuia
     conference_short: TGRS
     conference: IEEE Transactions on Geoscience and Remote Sensing <strong>(TGRS)</strong>, 2024.
     pdf: https://arxiv.org/pdf/2405.03373.pdf
     image: ./assets/img/paper_ktir.jpg
 
   - title: "Object-relation Reasoning Graph for Action Recognition"
-    authors: Yangjun Ou, <strong>Li Mi</strong>, Zhenzhong Chen
+    authors: Yangjun Ou, <u><strong>Li Mi</strong></u>, Zhenzhong Chen
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2022.
     pdf: https://openaccess.thecvf.com/content/CVPR2022/html/Ou_Object-Relation_Reasoning_Graph_for_Action_Recognition_CVPR_2022_paper.html
     image: ./assets/img/paper_object.jpg
 
   - title: "Civil War Hinders Crop Production and Threatens Food Security in Syria"
-    authors: Xi-Ya Li, Xi Li, Ziying Fan, <strong>Li Mi</strong>, Tarek Kandakji, Zhen Song, Deren Li, Xiao-Peng Song
+    authors: Xi-Ya Li, Xi Li, Ziying Fan, <u><strong>Li Mi</strong></u>, Tarek Kandakji, Zhen Song, Deren Li, Xiao-Peng Song
     conference_short: Nature Food
     conference: Nature Food, 2022.
     pdf: https://www.nature.com/articles/s43016-021-00432-4
     image: ./assets/img/paper_civil.jpg
 
   - title: "Hierarchical Graph Attention Network for Visual Relationship Detection"
-    authors: <strong>Li Mi</strong>, Zhenzhong Chen
+    authors: <u><strong>Li Mi</strong></u>, Zhenzhong Chen
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://openaccess.thecvf.com/content_CVPR_2020/html/Mi_Hierarchical_Graph_Attention_Network_for_Visual_Relationship_Detection_CVPR_2020_paper.html
     image: ./assets/img/paper_hierarchical.jpg
 
   - title: "Superpixel-enhanced Deep Neural Forest for Remote Sensing Image Semantic Segmentation"
-    authors: <strong>Li Mi</strong>, Zhenzhong Chen
+    authors: <u><strong>Li Mi</strong></u>, Zhenzhong Chen
     conference_short: ISPRS
     conference: ISPRS Journal of Photogrammetry and Remote Sensing <strong>(ISPRS)</strong>, 2020.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0924271619302606
