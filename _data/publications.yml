@@ -5,6 +5,7 @@ main:
     conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2025.
     page: https://silin159.github.io/Vina-Bench/
+    pdf: https://arxiv.org/pdf/2503.20871.pdf
     image: ./assets/img/paper_vinabench.jpg
 
   - title: "ConGeo: Robust Cross-view Geo-localization across Ground View Variations"
