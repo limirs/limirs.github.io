@@ -1,5 +1,12 @@
 main:
 
+  - title: "GeoExplorer: Active Geo-localization with Curiosity-Driven Exploration"
+    authors: <u><strong>Li Mi</strong></u>, Manon Béchaz, Zeming Chen, Antoine Bosselut, Devis Tuia
+    conference_short: ICCV
+    conference: IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2025.
+    page: https://limirs.github.io/GeoExplorer/
+    image: ./assets/img/paper_geoexplorer.jpg
+
   - title: "VinaBench: Benchmark for Faithful and Consistent Visual Narratives"
     authors: Silin Gao, Sheryl Mathew, <u><strong>Li Mi</strong></u>, Sepideh Mamooler, Mengjie Zhao, Hiromi Wakaki, Yuki Mitsufuji, Syrielle Montariol, Antoine Bosselut
     conference_short: CVPR
