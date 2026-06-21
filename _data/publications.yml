@@ -1,5 +1,27 @@
 main:
 
+  - title: "SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs"
+    authors: Niccolo Avogaro*, Nayanika Debnath*, <u><strong>Li Mi</strong></u>, Thomas Frick, Junling Wang, Zexue He, Hang Hua, Konrad Schindler, Mattia Rigotti
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2602.06566
+    image: ./assets/img/paper_sparc.jpg
+
+  - title: "DynaVieW: Schema-Guided World Modeling for Understanding Hierarchical Visual Dynamics"
+    authors: Silin Gao*, Hao Zhao*, Zeming Chen, Sepideh Mamooler, Antara Raaghavi Bhattacharya, Qiyu Wu, Hiromi Wakaki, Yuki Mitsufuji, <u><strong>Li Mi</strong></u>, Syrielle Montariol, Antoine Bosselut
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    pdf: https://github.com/Silin159/DynaVieW/blob/main/DynaVieW_Camera_Ready.pdf
+    image: ./assets/img/paper_dynaview.jpg
+
+  - title: "GeoFAR: Geography-Informed Frequency-Aware Super-Resolution for Climate Data"
+    authors: Chang Xu, Gencer Sumbul, <u><strong>Li Mi</strong></u>, Robin Zbinden, Devis Tuia
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    page: https://eceo-epfl.github.io/GeoFAR/
+    pdf: https://openreview.net/forum?id=0WHpOekph0
+    image: ./assets/img/paper_geofar.jpg
+
   - title: "GeoExplorer: Active Geo-localization with Curiosity-Driven Exploration"
     authors: <u><strong>Li Mi</strong></u>, Manon Béchaz, Zeming Chen, Antoine Bosselut, Devis Tuia
     conference_short: ICCV
