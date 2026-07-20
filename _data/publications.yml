@@ -11,7 +11,7 @@ main:
     authors: Silin Gao*, Hao Zhao*, Zeming Chen, Sepideh Mamooler, Antara Raaghavi Bhattacharya, Qiyu Wu, Hiromi Wakaki, Yuki Mitsufuji, <u><strong>Li Mi</strong></u>, Syrielle Montariol, Antoine Bosselut
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
-    pdf: https://github.com/Silin159/DynaVieW/blob/main/DynaVieW_Camera_Ready.pdf
+    pdf: https://arxiv.org/abs/2607.04112
     image: ./assets/img/paper_dynaview.jpg
 
   - title: "GeoFAR: Geography-Informed Frequency-Aware Super-Resolution for Climate Data"
