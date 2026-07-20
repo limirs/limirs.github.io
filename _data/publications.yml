@@ -11,6 +11,7 @@ main:
     authors: Silin Gao*, Hao Zhao*, Zeming Chen, Sepideh Mamooler, Antara Raaghavi Bhattacharya, Qiyu Wu, Hiromi Wakaki, Yuki Mitsufuji, <u><strong>Li Mi</strong></u>, Syrielle Montariol, Antoine Bosselut
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    page: https://github.com/Silin159/DynaVieW
     pdf: https://arxiv.org/abs/2607.04112
     image: ./assets/img/paper_dynaview.jpg
 
